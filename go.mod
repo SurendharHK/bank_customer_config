@@ -1,4 +1,4 @@
-module bank_customer_config
+module github.com/SurendharHK/bank_customer_config
 
 go 1.21.0
 
